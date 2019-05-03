@@ -1,0 +1,231 @@
+[Notes.u_r]
+x = 5.62e+02
+y = 5.5525e+02
+
+[Notes.l_l]
+x = 8e+02
+y = 5e+01
+
+["SS 1 frequency".u_r]
+x = 1.8075e+02
+y = 1.9225e+02
+
+["SS 1 frequency".l_l]
+x = 2.13e+02
+y = 1.9225e+02
+
+["SS 1 site A".u_r]
+x = 8.6625e+01
+y = 1.9225e+02
+
+["SS 1 site A".l_l]
+x = 1.09875e+02
+y = 1.9225e+02
+
+["SS 1 site B".u_r]
+x = 1.3425e+02
+y = 1.9225e+02
+
+["SS 1 site B".l_l]
+x = 1.5675e+02
+y = 1.9225e+02
+
+["SS 1 time".u_r]
+x = 6.112e+01
+y = 1.9225e+02
+
+["SS 1 time".l_l]
+x = 6.6375e+01
+y = 1.9225e+02
+
+["SS 2 frequency".u_r]
+x = 1.8075e+02
+y = 1.735e+02
+
+["SS 2 frequency".l_l]
+x = 2.13e+02
+y = 1.735e+02
+
+["SS 2 site A".u_r]
+x = 8.6625e+01
+y = 1.735e+02
+
+["SS 2 site A".l_l]
+x = 1.09875e+02
+y = 1.735e+02
+
+["SS 2 site B".u_r]
+x = 1.3425e+02
+y = 1.735e+02
+
+["SS 2 site B".l_l]
+x = 1.5675e+02
+y = 1.735e+02
+
+["SS 2 time".u_r]
+x = 6.112e+01
+y = 1.735e+02
+
+["SS 2 time".l_l]
+x = 6.6375e+01
+y = 1.735e+02
+
+["SS 3 frequency".u_r]
+x = 1.8075e+02
+y = 1.5475e+02
+
+["SS 3 frequency".l_l]
+x = 2.13e+02
+y = 1.5475e+02
+
+["SS 3 site A".u_r]
+x = 8.6625e+01
+y = 1.5475e+02
+
+["SS 3 site A".l_l]
+x = 1.09875e+02
+y = 1.5475e+02
+
+["SS 3 site B".u_r]
+x = 1.3425e+02
+y = 1.5475e+02
+
+["SS 3 site B".l_l]
+x = 1.5675e+02
+y = 1.5475e+02
+
+["SS 3 time".u_r]
+x = 6.112e+01
+y = 1.5475e+02
+
+["SS 3 time".l_l]
+x = 6.6375e+01
+y = 1.5475e+02
+
+["SS 4 frequency".u_r]
+x = 1.8075e+02
+y = 1.36e+02
+
+["SS 4 frequency".l_l]
+x = 2.13e+02
+y = 1.36e+02
+
+["SS 4 site A".u_r]
+x = 8.6625e+01
+y = 1.36e+02
+
+["SS 4 site A".l_l]
+x = 1.09875e+02
+y = 1.36e+02
+
+["SS 4 site B".u_r]
+x = 1.3425e+02
+y = 1.36e+02
+
+["SS 4 site B".l_l]
+x = 1.5675e+02
+y = 1.36e+02
+
+["SS 4 time".u_r]
+x = 6.112e+01
+y = 1.36e+02
+
+["SS 4 time".l_l]
+x = 6.6375e+01
+y = 1.36e+02
+
+["SS 5 frequency".u_r]
+x = 1.8075e+02
+y = 1.1725e+02
+
+["SS 5 frequency".l_l]
+x = 2.13e+02
+y = 1.1725e+02
+
+["SS 5 site A".u_r]
+x = 8.6625e+01
+y = 1.1725e+02
+
+["SS 5 site A".l_l]
+x = 1.09875e+02
+y = 1.1725e+02
+
+["SS 5 site B".u_r]
+x = 1.3425e+02
+y = 1.1725e+02
+
+["SS 5 site B".l_l]
+x = 1.5675e+02
+y = 1.1725e+02
+
+["SS 5 time".u_r]
+x = 6.112e+01
+y = 1.1725e+02
+
+["SS 5 time".l_l]
+x = 6.6375e+01
+y = 1.1725e+02
+
+[client.u_r]
+x = 4.1e+01
+y = 5.21e+02
+
+[client.l_l]
+x = 2e+02
+y = 5.19e+02
+
+[clinician.u_r]
+x = 4.2e+01
+y = 4.525e+02
+
+[clinician.l_l]
+x = 2e+02
+y = 4.525e+02
+
+[date.u_r]
+x = 4.1e+01
+y = 5.07e+02
+
+[date.l_l]
+x = 2e+02
+y = 5.06e+02
+
+[feedback1.u_r]
+x = 4.2e+01
+y = 3.8425e+02
+
+[feedback1.l_l]
+x = 2e+02
+y = 3.8425e+02
+
+[feedback2.u_r]
+x = 4.2e+01
+y = 3.73e+02
+
+[feedback2.l_l]
+x = 2e+02
+y = 3.73e+02
+
+[session.u_r]
+x = 8.55e+01
+y = 4.795e+02
+
+[session.l_l]
+x = 2e+02
+y = 4.795e+02
+
+[time.u_r]
+x = 4.2e+01
+y = 4.93e+02
+
+[time.l_l]
+x = 2e+02
+y = 4.93e+02
+
+[program.u_r]
+x = 4.2e+01
+y = 4.66e+02
+
+[program.l_l]
+x = 2e+02
+y = 4.66e+02
